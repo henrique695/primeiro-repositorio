@@ -1,0 +1,13 @@
+git status
+
+git clone
+
+git commit
+
+git push
+
+git pull  
+
+git add . (adiciona todos os arquivos)
+
+git 
